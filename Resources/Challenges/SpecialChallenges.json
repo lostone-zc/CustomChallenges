@@ -209,6 +209,14 @@
       "name": "Time Trial IV",
       "description": "Cruciball Level is set to 7. You have 25 minutes to finish all battles. Can you make it in time?",
       "author": "Ruiner",
+      "localizationName": {
+        "English": "Time Trial IV",
+        "简体中文": "时间试炼 IV"
+      },
+      "localizationDescription": {
+        "English": "Cruciball Level is set to 7. You have 25 minutes to finish all battles. Can you make it in time?",
+        "简体中文": "苦难等级已设为7，且你一共只有25分钟打过所有战斗。你能在规定时间内完成吗？"
+      },
       "requiredChallenges": [
         "timeAttackI",
         "timeAttackII",
